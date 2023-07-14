@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+.vs/
+*.sqlite3
+*.log
+.env
+backend/notes/__pycache__
+backend/notes/migrations
+backend/daily_notes/__pycache__
